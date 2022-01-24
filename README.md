@@ -1,4 +1,4 @@
-# ReinforcementLearningSpaceInvaders
+
 # Hello,
      My name is Chirag Mirani.  I am applying reinforcement learning to fun and practical use cases on a daily basis.  
      Please feel free to reach out to me at chiragmirani dot gmail dot com
